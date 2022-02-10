@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+=======
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> c9ce93700371ca7b52bd0491dc3955eb2653db8d
